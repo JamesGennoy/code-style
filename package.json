@@ -1,0 +1,21 @@
+{
+  "name": "code-style-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesGennoy/code-style-test.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JamesGennoy/code-style-test/issues"
+  },
+  "homepage": "https://github.com/JamesGennoy/code-style-test#readme",
+  "dependencies": {
+  }
+}
